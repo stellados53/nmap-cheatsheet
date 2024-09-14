@@ -1,4 +1,4 @@
-NMAP CHEAT SHEET
+# NMAP CHEAT SHEET
 
 ### 1 Nmap Basic Scanning
 nmap -sV [host] // Version Detection, default scan
